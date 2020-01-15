@@ -27,7 +27,7 @@ Like OpenWISP? Find out how to help us!
 Architecture
 ============
 
-If you are fond of **Python**, **Django** and **Unix**/**Linux** systems, you may find interesting
+If you are fond of **Python**, **Django ** and **Unix**/**Linux** systems, you may find interesting
 to know more about what happens under the hood in **OpenWISP 2**.
 
 ![openwisp2 modules diagram](https://raw.githubusercontent.com/openwisp/ansible-openwisp2/master/docs/openwisp2-modules-diagram.png)
